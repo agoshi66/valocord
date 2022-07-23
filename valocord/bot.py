@@ -56,7 +56,7 @@ class ValorantBot(commands.Bot):
         
         # bot presence
         activity_type = discord.ActivityType.listening
-        await self.change_presence(activity=discord.Activity(type=activity_type, name="flogychan"))
+        await self.change_presence(activity=discord.Activity(type=activity_type, name="上位互換だお"))
     
     async def setup_hook(self) -> None:
         self.session = aiohttp.ClientSession()

@@ -125,7 +125,7 @@ class Notify(commands.Cog):
     
     notify = app_commands.Group(name='notify', description='Notify commands')
     
-    @notify.command(name='add', description='Set a notification when a specific skin is available on your store')
+    @notify.command(name='add', description='特定のスキンがストアに登場した際に通知します')
     @app_commands.describe(skin='The name of the skin you want to notify')
     @app_commands.guild_only()
     # @dynamic_cooldown(cooldown_5s)
@@ -197,7 +197,7 @@ class Notify(commands.Cog):
         
         raise ValorantBotError(response.get('NOT_FOUND'))
     
-    @notify.command(name='list', description='View skins you have set a for notification.')
+    @notify.command(name='list', description='通知リストを表示します')
     # @dynamic_cooldown(cooldown_5s)
     async def notify_list(self, interaction: Interaction) -> None:
         
@@ -209,7 +209,7 @@ class Notify(commands.Cog):
         view = View.NotifyViewList(interaction, response)
         await view.start()
     
-    @notify.command(name='mode', description='Change notification mode/channel.')
+    @notify.command(name='mode', description='通知モードを変更します')
     @app_commands.describe(mode='Select the mode you want to change.')
     # @dynamic_cooldown(cooldown_5s)
     async def notify_mode(self, interaction: Interaction, mode: Literal['Specified Skin', 'All Skin', 'Off']) -> None:
@@ -231,7 +231,7 @@ class Notify(commands.Cog):
         
         embed = Embed(success.format(mode=mode))
         if mode == 'Specified Skin':
-            embed.set_image(url='https://i.imgur.com/RF6fHRY.png')
+            embed.set_image(url='https://i.imgur.com/TQA6jqn.png')
         elif mode == 'All Skin':
             embed.set_image(url='https://i.imgur.com/Gedqlzc.png')
         elif mode == 'Off':
@@ -239,7 +239,7 @@ class Notify(commands.Cog):
         
         await interaction.followup.send(embed=embed, ephemeral=True)
     
-    @notify.command(name='channel', description='Change notification channel.')
+    @notify.command(name='channel', description='通知チャンネルを変更します')
     @app_commands.describe(channel='Select the channel you want to change.')
     # @dynamic_cooldown(cooldown_5s)
     async def notify_channel(self, interaction: Interaction, channel: Literal['DM Message', 'Channel']) -> None:
@@ -260,7 +260,7 @@ class Notify(commands.Cog):
         
         await interaction.followup.send(embed=embed, ephemeral=True)
     
-    @notify.command(name='test', description='Testing notification')
+    @notify.command(name='test', description='通知機能をテストします')
     # @dynamic_cooldown(cooldown_5s)
     async def notify_test(self, interaction: Interaction) -> None:
         

@@ -1,5 +1,5 @@
 {
-  "valorant_version": "B9B93BC699B727A5",
+  "valorant_version": "DD1549CBC587B665",
   "skins": {
     "89baf0f4-4648-69fc-f0af-2fbc69b97b80": {
       "uuid": "89baf0f4-4648-69fc-f0af-2fbc69b97b80",
@@ -1232,7 +1232,7 @@
         "ar-AE": "بشائر الفوضى فاندال",
         "de-DE": "Vandal – Vorbote des Chaos",
         "en-US": "Prelude to Chaos Vandal",
-        "es-ES": "Vandal Prelude to chaos",
+        "es-ES": "Vandal Prelude to Chaos",
         "es-MX": "Vandal Preludio del Caos",
         "fr-FR": "Vandal (Prélude au chaos)",
         "id-ID": "Prelude to Chaos Vandal",
@@ -1275,6 +1275,31 @@
       },
       "icon": "https://media.valorant-api.com/weaponskinlevels/b3d3ff38-4202-20d8-2f41-c783477e5636/displayicon.png",
       "tier": "411e4a55-4e59-7757-41f0-86a53f101bb5"
+    },
+    "becdafdf-4d4b-0a8c-75d1-b8908db15ce5": {
+      "uuid": "becdafdf-4d4b-0a8c-75d1-b8908db15ce5",
+      "names": {
+        "ar-AE": "سرمد فاندال",
+        "de-DE": "Vandal – Sarmad",
+        "en-US": "Sarmad Vandal",
+        "es-ES": "Vandal Sarmad",
+        "es-MX": "Vandal Sarmad",
+        "fr-FR": "Vandal (Sarmad)",
+        "id-ID": "Sarmad Vandal",
+        "it-IT": "Vandal Sarmad",
+        "ja-JP": "サーマッド ヴァンダル",
+        "ko-KR": "사마드 밴달",
+        "pl-PL": "Vandal Sarmad",
+        "pt-BR": "Vandal Sarmad",
+        "ru-RU": "Vandal \"Сармад\"",
+        "th-TH": "Sarmad Vandal",
+        "tr-TR": "Sermet Vandal",
+        "vi-VN": "Vandal Bất Diệt",
+        "zh-CN": "Sarmad Vandal",
+        "zh-TW": "永恆之沙 暴徒"
+      },
+      "icon": "https://media.valorant-api.com/weaponskinlevels/becdafdf-4d4b-0a8c-75d1-b8908db15ce5/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
     },
     "f910a11a-40ab-d799-3782-c58674f7ada0": {
       "uuid": "f910a11a-40ab-d799-3782-c58674f7ada0",
@@ -2825,6 +2850,31 @@
       },
       "icon": "https://media.valorant-api.com/weaponskinlevels/0ff7ff25-42cf-769a-4e6d-bd833121302d/displayicon.png",
       "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "f0a2a250-4cab-264b-30b0-8ea0706589ff": {
+      "uuid": "f0a2a250-4cab-264b-30b0-8ea0706589ff",
+      "names": {
+        "ar-AE": "سرمد فانتوم",
+        "de-DE": "Phantom – Sarmad",
+        "en-US": "Sarmad Phantom",
+        "es-ES": "Phantom Sarmad",
+        "es-MX": "Phantom Sarmad",
+        "fr-FR": "Phantom (Sarmad)",
+        "id-ID": "Sarmad Phantom",
+        "it-IT": "Phantom Sarmad",
+        "ja-JP": "サーマッド ファントム",
+        "ko-KR": "사마드 팬텀",
+        "pl-PL": "Phantom Sarmad",
+        "pt-BR": "Phantom Sarmad",
+        "ru-RU": "Phantom \"Сармад\"",
+        "th-TH": "Sarmad Phantom",
+        "tr-TR": "Sermet Phantom",
+        "vi-VN": "Phantom Bất Diệt",
+        "zh-CN": "Sarmad Phantom",
+        "zh-TW": "永恆之沙 幻象"
+      },
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f0a2a250-4cab-264b-30b0-8ea0706589ff/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
     },
     "d39a4263-49d3-f2e0-2c13-c299f8644518": {
       "uuid": "d39a4263-49d3-f2e0-2c13-c299f8644518",
@@ -4926,6 +4976,31 @@
       "icon": "https://media.valorant-api.com/weaponskinlevels/ea65ba94-468d-39a8-5ded-98820d72d19f/displayicon.png",
       "tier": "411e4a55-4e59-7757-41f0-86a53f101bb5"
     },
+    "1ef9fcc9-4087-a079-616a-849f43c51665": {
+      "uuid": "1ef9fcc9-4087-a079-616a-849f43c51665",
+      "names": {
+        "ar-AE": "سرمد فرينزي",
+        "de-DE": "Frenzy – Sarmad",
+        "en-US": "Sarmad Frenzy",
+        "es-ES": "Frenzy Sarmad",
+        "es-MX": "Frenzy Sarmad",
+        "fr-FR": "Frenzy (Sarmad)",
+        "id-ID": "Sarmad Frenzy",
+        "it-IT": "Frenzy Sarmad",
+        "ja-JP": "サーマッド フレンジー",
+        "ko-KR": "사마드 프렌지",
+        "pl-PL": "Frenzy Sarmad",
+        "pt-BR": "Frenzy Sarmad",
+        "ru-RU": "Frenzy \"Сармад\"",
+        "th-TH": "Sarmad Frenzy",
+        "tr-TR": "Sermet Frenzy",
+        "vi-VN": "Frenzy Bất Diệt",
+        "zh-CN": "Sarmad Frenzy",
+        "zh-TW": "永恆之沙 狂弒"
+      },
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1ef9fcc9-4087-a079-616a-849f43c51665/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
     "3e32c58e-4347-e4b1-4502-6dab0dc516a8": {
       "uuid": "3e32c58e-4347-e4b1-4502-6dab0dc516a8",
       "names": {
@@ -5364,7 +5439,7 @@
         "it-IT": "Frenzy Cavo scoperto",
         "ja-JP": "ライブワイヤー フレンジー",
         "ko-KR": "라이브 와이어 프렌지",
-        "pl-PL": "Frenzy Szaleństwo pod Napięciem",
+        "pl-PL": "Frenzy Pod Napięciem",
         "pt-BR": "Frenzy Eletrizante",
         "ru-RU": "Frenzy \"Под напряжением\"",
         "th-TH": "Live Wire Frenzy",
@@ -7607,7 +7682,7 @@
         "ar-AE": "بشائر الفوضى شورتي",
         "de-DE": "Shorty – Vorbote des Chaos",
         "en-US": "Prelude to Chaos Shorty",
-        "es-ES": "Shorty Prelude to chaos",
+        "es-ES": "Shorty Prelude to Chaos",
         "es-MX": "Shorty Preludio del Caos",
         "fr-FR": "Shorty (Prélude au chaos)",
         "id-ID": "Prelude to Chaos Shorty",
@@ -8207,7 +8282,7 @@
         "ar-AE": "بشائر الفوضى أوبيريتور",
         "de-DE": "Operator – Vorbote des Chaos",
         "en-US": "Prelude to Chaos Operator",
-        "es-ES": "Operator Prelude to chaos",
+        "es-ES": "Operator Prelude to Chaos",
         "es-MX": "Operator Preludio del Caos",
         "fr-FR": "Operator (Prélude au chaos)",
         "id-ID": "Prelude to Chaos Operator",
@@ -10126,6 +10201,31 @@
       "icon": "https://media.valorant-api.com/weaponskinlevels/3b955119-421c-3319-50cc-1aaf06b42338/displayicon.png",
       "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
     },
+    "3d9792a3-4614-c8e0-6eda-58bb52e69d8b": {
+      "uuid": "3d9792a3-4614-c8e0-6eda-58bb52e69d8b",
+      "names": {
+        "ar-AE": "سرمد سبيكتر",
+        "de-DE": "Spectre – Sarmad",
+        "en-US": "Sarmad Spectre",
+        "es-ES": "Spectre Sarmad",
+        "es-MX": "Spectre Sarmad",
+        "fr-FR": "Spectre (Sarmad)",
+        "id-ID": "Sarmad Spectre",
+        "it-IT": "Spectre Sarmad",
+        "ja-JP": "サーマッド スペクター",
+        "ko-KR": "사마드 스펙터",
+        "pl-PL": "Spectre Sarmad",
+        "pt-BR": "Spectre Sarmad",
+        "ru-RU": "Spectre \"Сармад\"",
+        "th-TH": "Sarmad Spectre",
+        "tr-TR": "Sermet Spectre",
+        "vi-VN": "Spectre Bất Diệt",
+        "zh-CN": "Sarmad Spectre",
+        "zh-TW": "永恆之沙 惡靈"
+      },
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3d9792a3-4614-c8e0-6eda-58bb52e69d8b/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
     "4d02d9fa-4cb4-4d87-bdf0-97bd5f960c12": {
       "uuid": "4d02d9fa-4cb4-4d87-bdf0-97bd5f960c12",
       "names": {
@@ -10882,7 +10982,7 @@
         "ar-AE": "بشائر الفوضى ستينغر",
         "de-DE": "Stinger – Vorbote des Chaos",
         "en-US": "Prelude to Chaos Stinger",
-        "es-ES": "Stinger Prelude to chaos",
+        "es-ES": "Stinger Prelude to Chaos",
         "es-MX": "Stinger Preludio del Caos",
         "fr-FR": "Stinger (Prélude au chaos)",
         "id-ID": "Prelude to Chaos Stinger",
@@ -11826,6 +11926,31 @@
       "icon": "https://media.valorant-api.com/weaponskinlevels/ea441610-42da-e46f-8d7b-1b9759c105cd/displayicon.png",
       "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
     },
+    "ed0080a9-4d77-d279-5a5c-f2bdb630307d": {
+      "uuid": "ed0080a9-4d77-d279-5a5c-f2bdb630307d",
+      "names": {
+        "ar-AE": "نصل سرقيت",
+        "de-DE": "Klinge von Serket",
+        "en-US": "Blade of Serket",
+        "es-ES": "Hoja de Serket",
+        "es-MX": "Filo de Serket",
+        "fr-FR": "Lame de Serket",
+        "id-ID": "Blade of Serket",
+        "it-IT": "Lama di Serket",
+        "ja-JP": "ブレード・オブ・セルケト",
+        "ko-KR": "세르케트의 칼날",
+        "pl-PL": "Ostrze Serket",
+        "pt-BR": "Lâmina de Serket",
+        "ru-RU": "Серп скорпиона",
+        "th-TH": "Blade of Serket",
+        "tr-TR": "Serket'in Bıçağı",
+        "vi-VN": "Dao Bọ Cạp",
+        "zh-CN": "Blade of Serket",
+        "zh-TW": "蠍女神之刃"
+      },
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ed0080a9-4d77-d279-5a5c-f2bdb630307d/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
     "e701b267-43bb-7862-cebb-9695590b68ac": {
       "uuid": "e701b267-43bb-7862-cebb-9695590b68ac",
       "names": {
@@ -12007,7 +12132,7 @@
         "ar-AE": "برايم//2.0 خنجر معقوف",
         "de-DE": "Karambit – Prime//2.0",
         "en-US": "Prime//2.0 Karambit",
-        "es-ES": "Kerambit Prime//2.0",
+        "es-ES": "Karambit Prime//2.0",
         "es-MX": "Karambit Supremo//2.0",
         "fr-FR": "Karambit (Primordial//2.0)",
         "id-ID": "Prime//2.0 Karambit",
@@ -13131,7 +13256,12 @@
     "09fded5d-4add-00e7-d3c4-32b8f21c7944": 2175,
     "7c89312b-45fb-a892-4525-659ba3de4475": 2175,
     "5611fa1c-45bb-6c46-73cd-209031e72524": 2175,
-    "d6b75f1b-409b-bae9-d378-d3adf04a3ca9": 4350
+    "d6b75f1b-409b-bae9-d378-d3adf04a3ca9": 4350,
+    "becdafdf-4d4b-0a8c-75d1-b8908db15ce5": 1275,
+    "f0a2a250-4cab-264b-30b0-8ea0706589ff": 1275,
+    "1ef9fcc9-4087-a079-616a-849f43c51665": 1275,
+    "3d9792a3-4614-c8e0-6eda-58bb52e69d8b": 1275,
+    "ed0080a9-4d77-d279-5a5c-f2bdb630307d": 2550
   },
   "bundles": {
     "ed453815-44aa-4c4d-f3aa-77b4bcf048d7": {
@@ -14602,7 +14732,7 @@
         "ar-AE": "بشائر الفوضى",
         "de-DE": "Vorbote des Chaos",
         "en-US": "Prelude to Chaos",
-        "es-ES": "Prelude to chaos",
+        "es-ES": "Prelude to Chaos",
         "es-MX": "Preludio del Caos",
         "fr-FR": "Prélude au chaos",
         "id-ID": "Prelude to Chaos",
@@ -14621,8 +14751,58 @@
       "subnames": null,
       "descriptions": null,
       "icon": "https://media.valorant-api.com/bundles/526f7d0c-414b-24bb-bcd0-10aed1f3e824/displayicon2.png",
-      "items": null,
-      "price": null,
+      "items": [
+        {
+          "uuid": "1010fb40-4344-6ec8-2a8a-33bf076339b6",
+          "type": "e7c63390-eda7-46e0-bb7a-a6abdacd2433",
+          "price": 2175,
+          "amount": 1,
+          "discount": 0
+        },
+        {
+          "uuid": "09fded5d-4add-00e7-d3c4-32b8f21c7944",
+          "type": "e7c63390-eda7-46e0-bb7a-a6abdacd2433",
+          "price": 2175,
+          "amount": 1,
+          "discount": 0
+        },
+        {
+          "uuid": "7c89312b-45fb-a892-4525-659ba3de4475",
+          "type": "e7c63390-eda7-46e0-bb7a-a6abdacd2433",
+          "price": 2175,
+          "amount": 1,
+          "discount": 0
+        },
+        {
+          "uuid": "5611fa1c-45bb-6c46-73cd-209031e72524",
+          "type": "e7c63390-eda7-46e0-bb7a-a6abdacd2433",
+          "price": 2175,
+          "amount": 1,
+          "discount": 0
+        },
+        {
+          "uuid": "d6b75f1b-409b-bae9-d378-d3adf04a3ca9",
+          "type": "e7c63390-eda7-46e0-bb7a-a6abdacd2433",
+          "price": 4350,
+          "amount": 1,
+          "discount": 0
+        },
+        {
+          "uuid": "ced74427-4530-5a19-9c55-cbb81c150bcc",
+          "type": "dd3bf334-87f3-40bd-b043-682a57a8dc3a",
+          "price": 475,
+          "amount": 1,
+          "discount": 0
+        },
+        {
+          "uuid": "5492634a-48f8-1f15-19cb-beacabcb0a4e",
+          "type": "d5f120f8-ff8c-4aac-92ea-f2b5acbe9475",
+          "price": 325,
+          "amount": 1,
+          "discount": 0
+        }
+      ],
+      "price": 8700,
       "basePrice": null,
       "expires": null
     },
@@ -14891,6 +15071,36 @@
         }
       ],
       "price": 8700,
+      "basePrice": null,
+      "expires": null
+    },
+    "83e78a53-435b-f891-9e04-a9b59ed8fa44": {
+      "uuid": "83e78a53-435b-f891-9e04-a9b59ed8fa44",
+      "names": {
+        "ar-AE": "سرمد",
+        "de-DE": "Sarmad",
+        "en-US": "Sarmad",
+        "es-ES": "Sarmad",
+        "es-MX": "Sarmad",
+        "fr-FR": "Sarmad",
+        "id-ID": "Sarmad",
+        "it-IT": "Sarmad",
+        "ja-JP": "サーマッド",
+        "ko-KR": "사마드",
+        "pl-PL": "Sarmad",
+        "pt-BR": "Sarmad",
+        "ru-RU": "Сармад",
+        "th-TH": "Sarmad",
+        "tr-TR": "Sermet",
+        "vi-VN": "Bất Diệt",
+        "zh-CN": "Sarmad",
+        "zh-TW": "永恆之沙"
+      },
+      "subnames": null,
+      "descriptions": null,
+      "icon": "https://media.valorant-api.com/bundles/83e78a53-435b-f891-9e04-a9b59ed8fa44/displayicon2.png",
+      "items": null,
+      "price": null,
       "basePrice": null,
       "expires": null
     },
@@ -16987,6 +17197,36 @@
         }
       ],
       "price": 5945,
+      "basePrice": null,
+      "expires": null
+    },
+    "a6fa35c6-4205-d5bc-dd65-3b92aeaac412": {
+      "uuid": "a6fa35c6-4205-d5bc-dd65-3b92aeaac412",
+      "names": {
+        "ar-AE": "ران إت باك",
+        "de-DE": "Revanche",
+        "en-US": "Run It Back",
+        "es-ES": "Memorables",
+        "es-MX": "Va de Fuego",
+        "fr-FR": "Revanche",
+        "id-ID": "Run It Back",
+        "it-IT": "Ceneri della Fenice",
+        "ja-JP": "ラン・イット・バック",
+        "ko-KR": "역습",
+        "pl-PL": "Drugie Podejście",
+        "pt-BR": "Renascimento",
+        "ru-RU": "Воспоминания",
+        "th-TH": "Run it Back",
+        "tr-TR": "HATIRALAR GEÇİDİ",
+        "vi-VN": "Ngược Thời Gian",
+        "zh-CN": "再火一回",
+        "zh-TW": "再來一局"
+      },
+      "subnames": null,
+      "descriptions": null,
+      "icon": "https://media.valorant-api.com/bundles/a6fa35c6-4205-d5bc-dd65-3b92aeaac412/displayicon2.png",
+      "items": null,
+      "price": null,
       "basePrice": null,
       "expires": null
     },
@@ -20389,90 +20629,6 @@
         "small": "https://media.valorant-api.com/playercards/52d88add-4269-97c1-fde3-36bcac1a436a/smallart.png",
         "wide": "https://media.valorant-api.com/playercards/52d88add-4269-97c1-fde3-36bcac1a436a/wideart.png",
         "large": "https://media.valorant-api.com/playercards/52d88add-4269-97c1-fde3-36bcac1a436a/largeart.png"
-      }
-    },
-    "c4ce702b-4b2a-a89c-5f24-f78406ebdd1f": {
-      "uuid": "c4ce702b-4b2a-a89c-5f24-f78406ebdd1f",
-      "names": {
-        "ar-AE": "بطاقة دوودل بَدز // League of Legends",
-        "de-DE": "Banner „Kritzelbrudis // League of Legends“",
-        "en-US": "Doodle Buds // League of Legends Card",
-        "es-ES": "Doodle Buds // Tarjeta de League of Legends",
-        "es-MX": "Tarjeta GaraBuddies // League of Legends",
-        "fr-FR": "Carte Amis crayonnés // League of Legends",
-        "id-ID": "Kartu Doodle Buds // League of Legends",
-        "it-IT": "Carta Scarabocchi // League of Legends",
-        "ja-JP": "ドゥードゥル・バディー // リーグ・オブ・レジェンド カード",
-        "ko-KR": "두들 버즈 // 리그 오브 레전드 카드",
-        "pl-PL": "Karta „Gryzmołki // League of Legends”",
-        "pt-BR": "Card Rabisquinhos // League of Legends",
-        "ru-RU": "Карточка \"Герои с картинки // League of Legends\"",
-        "th-TH": "การ์ด Doodle Buds // League of Legends",
-        "tr-TR": "Karikatürize // League of Legends Kartı",
-        "vi-VN": "Thẻ Phác Họa // Liên Minh Huyền Thoại",
-        "zh-CN": "涂鸦伙伴//《英雄联盟》 卡面",
-        "zh-TW": "魔術塗鴉//英雄聯盟 玩家卡面"
-      },
-      "icon": {
-        "small": "https://media.valorant-api.com/playercards/c4ce702b-4b2a-a89c-5f24-f78406ebdd1f/smallart.png",
-        "wide": "https://media.valorant-api.com/playercards/c4ce702b-4b2a-a89c-5f24-f78406ebdd1f/wideart.png",
-        "large": "https://media.valorant-api.com/playercards/c4ce702b-4b2a-a89c-5f24-f78406ebdd1f/largeart.png"
-      }
-    },
-    "da32c450-4d12-2858-89fa-07be25d51b0b": {
-      "uuid": "da32c450-4d12-2858-89fa-07be25d51b0b",
-      "names": {
-        "ar-AE": "بطاقة دوودل بَدز // العملاء",
-        "de-DE": "Banner „Kritzelbrudis // Agenten“",
-        "en-US": "Doodle Buds // Agents Card",
-        "es-ES": "Doodle Buds // Tarjeta de agentes",
-        "es-MX": "Tarjeta GaraBuddies // Agentes",
-        "fr-FR": "Carte Amis crayonnés // Agents",
-        "id-ID": "Kartu Doodle Buds // Agents",
-        "it-IT": "Carta Scarabocchi // Agenti",
-        "ja-JP": "ドゥードゥル・バディー // エージェント カード",
-        "ko-KR": "두들 버즈 // 요원 카드",
-        "pl-PL": "Karta „Gryzmołki // Agenci”",
-        "pt-BR": "Card Rabisquinhos // Agentes",
-        "ru-RU": "Карточка \"Герои с картинки // Агенты\"",
-        "th-TH": "การ์ด Doodle Buds // Agents",
-        "tr-TR": "Karikatürize // Ajan Kartı",
-        "vi-VN": "Thẻ Phác Họa // Đặc Vụ",
-        "zh-CN": "涂鸦伙伴//契约者 卡面",
-        "zh-TW": "魔術塗鴉//Q版特務 玩家卡面"
-      },
-      "icon": {
-        "small": "https://media.valorant-api.com/playercards/da32c450-4d12-2858-89fa-07be25d51b0b/smallart.png",
-        "wide": "https://media.valorant-api.com/playercards/da32c450-4d12-2858-89fa-07be25d51b0b/wideart.png",
-        "large": "https://media.valorant-api.com/playercards/da32c450-4d12-2858-89fa-07be25d51b0b/largeart.png"
-      }
-    },
-    "009f74aa-4c66-0f61-c165-9c91a3addff6": {
-      "uuid": "009f74aa-4c66-0f61-c165-9c91a3addff6",
-      "names": {
-        "ar-AE": "بطاقة دوودل بَدز // الأصدقاء المسلحون",
-        "de-DE": "Banner „Kritzelbrudis // Taktifreunde“",
-        "en-US": "Doodle Buds // Tactifriends Card",
-        "es-ES": "Doodle Buds // Tarjeta de Tacticompis",
-        "es-MX": "Tarjeta GaraBuddies // Tactiamigos",
-        "fr-FR": "Carte Amis crayonnés // Tactipotes",
-        "id-ID": "Kartu Doodle Buds // Tactifriends",
-        "it-IT": "Carta Scarabocchi // Amici tattici",
-        "ja-JP": "ドゥードゥル・バディー // 戦略フレンズ カード",
-        "ko-KR": "두들 버즈 // 전략가 친구들 카드",
-        "pl-PL": "Karta „Gryzmołki // Taktyczni kumple”",
-        "pt-BR": "Card Rabisquinhos // Missão Animal",
-        "ru-RU": "Карточка \"Герои с картинки // Тактические друзья\"",
-        "th-TH": "การ์ด Doodle Buds // Tactifriends",
-        "tr-TR": "Karikatürize // Taktiksel Dostlar Kartı",
-        "vi-VN": "Thẻ Phác Họa // Tactifriends",
-        "zh-CN": "涂鸦伙伴//砰砰队 卡面",
-        "zh-TW": "魔術塗鴉//戰術夥伴 玩家卡面"
-      },
-      "icon": {
-        "small": "https://media.valorant-api.com/playercards/009f74aa-4c66-0f61-c165-9c91a3addff6/smallart.png",
-        "wide": "https://media.valorant-api.com/playercards/009f74aa-4c66-0f61-c165-9c91a3addff6/wideart.png",
-        "large": "https://media.valorant-api.com/playercards/009f74aa-4c66-0f61-c165-9c91a3addff6/largeart.png"
       }
     },
     "8b26fe6c-409e-6ce8-3dc1-50ae5a503805": {
@@ -23923,7 +24079,7 @@
       "uuid": "f7824992-4c5c-fe85-fe96-95b4d918410a",
       "names": {
         "ar-AE": "بطاقة أنا في كل مكان",
-        "de-DE": "Banner „Ich bin überall.“",
+        "de-DE": "Banner „Ich bin überall“",
         "en-US": "I Am Everywhere Card",
         "es-ES": "Tarjeta Soy omnipresente",
         "es-MX": "Tarjeta Soy Omnipresente",
@@ -24255,146 +24411,6 @@
         "large": "https://media.valorant-api.com/playercards/8453f8ef-4c0b-46e2-8768-3e9e45c67a2c/largeart.png"
       }
     },
-    "6b8e3723-4530-74eb-2a67-19b48a45c53c": {
-      "uuid": "6b8e3723-4530-74eb-2a67-19b48a45c53c",
-      "names": {
-        "ar-AE": "بطاقة تفوق جماعي // جيت",
-        "de-DE": "Banner „Team-Ass // Jett“",
-        "en-US": "Team Ace // Jett Card",
-        "es-ES": "Tarjeta Team Ace // Jett",
-        "es-MX": "Tarjeta Team Ace // Jett",
-        "fr-FR": "Carte Ace d'équipe // Jett",
-        "id-ID": "Kartu Team Ace // Jett",
-        "it-IT": "Carta Carneficina di squadra // Jett",
-        "ja-JP": "チームエース // ジェット カード",
-        "ko-KR": "팀 에이스 // 제트 카드",
-        "pl-PL": "Karta „As drużyny // Jett”",
-        "pt-BR": "Card Ás na Manga // Jett",
-        "ru-RU": "Карточка \"Элитный отряд // Jett\"",
-        "th-TH": "การ์ด Team Ace // Jett",
-        "tr-TR": "Takımın Ası // Jett Kartı",
-        "vi-VN": "Thẻ Quét Sạch Toàn Đội // Jett",
-        "zh-CN": "王牌队员 // 捷风 卡面",
-        "zh-TW": "王牌戰隊//婕提 玩家卡面"
-      },
-      "icon": {
-        "small": "https://media.valorant-api.com/playercards/6b8e3723-4530-74eb-2a67-19b48a45c53c/smallart.png",
-        "wide": "https://media.valorant-api.com/playercards/6b8e3723-4530-74eb-2a67-19b48a45c53c/wideart.png",
-        "large": "https://media.valorant-api.com/playercards/6b8e3723-4530-74eb-2a67-19b48a45c53c/largeart.png"
-      }
-    },
-    "8dc9e235-4def-c3eb-1d6f-609808a8afcc": {
-      "uuid": "8dc9e235-4def-c3eb-1d6f-609808a8afcc",
-      "names": {
-        "ar-AE": "بطاقة تفوق جماعي // فينيكس",
-        "de-DE": "Banner „Team-Ass // Phoenix“",
-        "en-US": "Team Ace // Phoenix Card",
-        "es-ES": "Tarjeta Team Ace // Phoenix",
-        "es-MX": "Tarjeta Team Ace // Phoenix",
-        "fr-FR": "Carte Ace d'équipe // Phoenix",
-        "id-ID": "Kartu Team Ace // Phoenix",
-        "it-IT": "Carta Carneficina di squadra // Phoenix",
-        "ja-JP": "チームエース // フェニックス カード",
-        "ko-KR": "팀 에이스 // 피닉스 카드",
-        "pl-PL": "Karta „As drużyny // Phoenix”",
-        "pt-BR": "Card Ás na Manga // Phoenix",
-        "ru-RU": "Карточка \"Элитный отряд // Phoenix\"",
-        "th-TH": "การ์ด Team Ace // Phoenix",
-        "tr-TR": "Takımın Ası // Phoenix Kartı",
-        "vi-VN": "Thẻ Quét Sạch Toàn Đội // Phoenix",
-        "zh-CN": "王牌队员 // 不死鸟 卡面",
-        "zh-TW": "王牌戰隊//菲尼克斯 玩家卡面"
-      },
-      "icon": {
-        "small": "https://media.valorant-api.com/playercards/8dc9e235-4def-c3eb-1d6f-609808a8afcc/smallart.png",
-        "wide": "https://media.valorant-api.com/playercards/8dc9e235-4def-c3eb-1d6f-609808a8afcc/wideart.png",
-        "large": "https://media.valorant-api.com/playercards/8dc9e235-4def-c3eb-1d6f-609808a8afcc/largeart.png"
-      }
-    },
-    "f06973d3-491f-652a-ce0f-469d3516ad16": {
-      "uuid": "f06973d3-491f-652a-ce0f-469d3516ad16",
-      "names": {
-        "ar-AE": "بطاقة تفوق جماعي // رايز",
-        "de-DE": "Banner „Team-Ass // Raze“",
-        "en-US": "Team Ace // Raze Card",
-        "es-ES": "Tarjeta Team Ace // Raze",
-        "es-MX": "Tarjeta Team Ace // Raze",
-        "fr-FR": "Carte Ace d'équipe // Raze",
-        "id-ID": "Kartu Team Ace // Raze",
-        "it-IT": "Carta Carneficina di squadra // Raze",
-        "ja-JP": "チームエース // レイズ カード",
-        "ko-KR": "팀 에이스 // 레이즈 카드",
-        "pl-PL": "Karta „As drużyny // Raze”",
-        "pt-BR": "Card Ás na Manga // Raze",
-        "ru-RU": "Карточка \"Элитный отряд // Raze\"",
-        "th-TH": "การ์ด Team Ace // Raze",
-        "tr-TR": "Takımın Ası // Raze Kartı",
-        "vi-VN": "Thẻ Quét Sạch Toàn Đội // Raze",
-        "zh-CN": "王牌队员 // 雷兹 卡面",
-        "zh-TW": "王牌戰隊//芮茲 玩家卡面"
-      },
-      "icon": {
-        "small": "https://media.valorant-api.com/playercards/f06973d3-491f-652a-ce0f-469d3516ad16/smallart.png",
-        "wide": "https://media.valorant-api.com/playercards/f06973d3-491f-652a-ce0f-469d3516ad16/wideart.png",
-        "large": "https://media.valorant-api.com/playercards/f06973d3-491f-652a-ce0f-469d3516ad16/largeart.png"
-      }
-    },
-    "f4b95397-4740-9569-f2c6-ceb38da5bf73": {
-      "uuid": "f4b95397-4740-9569-f2c6-ceb38da5bf73",
-      "names": {
-        "ar-AE": "بطاقة تفوق جماعي // ريينا",
-        "de-DE": "Banner „Team-Ass // Reyna“",
-        "en-US": "Team Ace // Reyna Card",
-        "es-ES": "Tarjeta Team Ace // Reyna",
-        "es-MX": "Tarjeta Team Ace // Reyna",
-        "fr-FR": "Carte Ace d'équipe // Reyna",
-        "id-ID": "Kartu Team Ace // Reyna",
-        "it-IT": "Carta Carneficina di squadra // Reyna",
-        "ja-JP": "チームエース // レイナ カード",
-        "ko-KR": "팀 에이스 // 레이나 카드",
-        "pl-PL": "Karta „As drużyny // Reyna”",
-        "pt-BR": "Card Ás na Manga // Reyna",
-        "ru-RU": "Карточка \"Элитный отряд // Reyna\"",
-        "th-TH": "การ์ด Team Ace // Reyna",
-        "tr-TR": "Takımın Ası // Reyna Kartı",
-        "vi-VN": "Thẻ Quét Sạch Toàn Đội // Reyna",
-        "zh-CN": "王牌队员 // 芮娜 卡面",
-        "zh-TW": "王牌戰隊//蕾娜 玩家卡面"
-      },
-      "icon": {
-        "small": "https://media.valorant-api.com/playercards/f4b95397-4740-9569-f2c6-ceb38da5bf73/smallart.png",
-        "wide": "https://media.valorant-api.com/playercards/f4b95397-4740-9569-f2c6-ceb38da5bf73/wideart.png",
-        "large": "https://media.valorant-api.com/playercards/f4b95397-4740-9569-f2c6-ceb38da5bf73/largeart.png"
-      }
-    },
-    "6f812af1-451d-0eab-59fe-93b64c5e2c77": {
-      "uuid": "6f812af1-451d-0eab-59fe-93b64c5e2c77",
-      "names": {
-        "ar-AE": "بطاقة تفوق جماعي // يورو",
-        "de-DE": "Banner „Team-Ass // Yoru“",
-        "en-US": "Team Ace // Yoru Card",
-        "es-ES": "Tarjeta Team Ace // Yoru",
-        "es-MX": "Tarjeta Team Ace // Yoru",
-        "fr-FR": "Carte Ace d'équipe // Yoru",
-        "id-ID": "Kartu Team Ace // Yoru",
-        "it-IT": "Carta Carneficina di squadra // Yoru",
-        "ja-JP": "チームエース // ヨル カード",
-        "ko-KR": "팀 에이스 // 요루 카드",
-        "pl-PL": "Karta „As drużyny // Yoru”",
-        "pt-BR": "Card Ás na Manga // Yoru",
-        "ru-RU": "Карточка \"Элитный отряд // Yoru\"",
-        "th-TH": "การ์ด Team Ace // Yoru",
-        "tr-TR": "Takımın Ası // Yoru Kartı",
-        "vi-VN": "Thẻ Quét Sạch Toàn Đội // Yoru",
-        "zh-CN": "王牌队员 // 夜露 卡面",
-        "zh-TW": "王牌戰隊//夜戮 玩家卡面"
-      },
-      "icon": {
-        "small": "https://media.valorant-api.com/playercards/6f812af1-451d-0eab-59fe-93b64c5e2c77/smallart.png",
-        "wide": "https://media.valorant-api.com/playercards/6f812af1-451d-0eab-59fe-93b64c5e2c77/wideart.png",
-        "large": "https://media.valorant-api.com/playercards/6f812af1-451d-0eab-59fe-93b64c5e2c77/largeart.png"
-      }
-    },
     "d72e09a3-4916-9bae-8570-c7b3c35c347d": {
       "uuid": "d72e09a3-4916-9bae-8570-c7b3c35c347d",
       "names": {
@@ -24505,6 +24521,62 @@
         "small": "https://media.valorant-api.com/playercards/546c9535-4671-e7cf-d5f9-1b90e3e2d7e4/smallart.png",
         "wide": "https://media.valorant-api.com/playercards/546c9535-4671-e7cf-d5f9-1b90e3e2d7e4/wideart.png",
         "large": "https://media.valorant-api.com/playercards/546c9535-4671-e7cf-d5f9-1b90e3e2d7e4/largeart.png"
+      }
+    },
+    "68b0c8c2-4158-7b21-658d-b4ae86f137ce": {
+      "uuid": "68b0c8c2-4158-7b21-658d-b4ae86f137ce",
+      "names": {
+        "ar-AE": "بطاقة خطر ألفا",
+        "de-DE": "Banner „Alpha-Bedrohung“",
+        "en-US": "Alpha Threat Card",
+        "es-ES": "Tarjeta Amenaza Alfa",
+        "es-MX": "Tarjeta Amenaza Alfa",
+        "fr-FR": "Carte Menace alpha",
+        "id-ID": "Kartu Alpha Threat",
+        "it-IT": "Carta Minaccia Alfa",
+        "ja-JP": "アルファの脅威 カード",
+        "ko-KR": "알파의 위협 카드",
+        "pl-PL": "Karta „Zagrożenie Alfa”",
+        "pt-BR": "Card Ameaça Alfa",
+        "ru-RU": "Карточка \"Alpha Threat\"",
+        "th-TH": "การ์ด Alpha Threat",
+        "tr-TR": "Alfa Tehdidi Kartı",
+        "vi-VN": "Thẻ Hiểm Họa Alpha",
+        "zh-CN": "Alpha Threat Card",
+        "zh-TW": "阿爾發威脅 玩家卡面"
+      },
+      "icon": {
+        "small": "https://media.valorant-api.com/playercards/68b0c8c2-4158-7b21-658d-b4ae86f137ce/smallart.png",
+        "wide": "https://media.valorant-api.com/playercards/68b0c8c2-4158-7b21-658d-b4ae86f137ce/wideart.png",
+        "large": "https://media.valorant-api.com/playercards/68b0c8c2-4158-7b21-658d-b4ae86f137ce/largeart.png"
+      }
+    },
+    "a26b6480-4bc4-51df-fe97-4680f30786d5": {
+      "uuid": "a26b6480-4bc4-51df-fe97-4680f30786d5",
+      "names": {
+        "ar-AE": "بطاقة الثائرين",
+        "de-DE": "Banner „In Aufruhr“",
+        "en-US": "Up in Arms Card",
+        "es-ES": "Tarjeta A pulso",
+        "es-MX": "Tarjeta Lucha de Poder",
+        "fr-FR": "Carte Révolté",
+        "id-ID": "Kartu Up in Arms",
+        "it-IT": "Carta Braccio di ferro",
+        "ja-JP": "コイツには負けねぇ カード",
+        "ko-KR": "팔씨름 카드",
+        "pl-PL": "Karta „Wręcemocni”",
+        "pt-BR": "Card Queda de Braço",
+        "ru-RU": "Карточка \"Бой на руках\"",
+        "th-TH": "การ์ด Up in Arms",
+        "tr-TR": "Bilek Gücü Kartı",
+        "vi-VN": "Thẻ Đọ Tay",
+        "zh-CN": "Up in Arms Card",
+        "zh-TW": "腕力大賽 玩家卡面"
+      },
+      "icon": {
+        "small": "https://media.valorant-api.com/playercards/a26b6480-4bc4-51df-fe97-4680f30786d5/smallart.png",
+        "wide": "https://media.valorant-api.com/playercards/a26b6480-4bc4-51df-fe97-4680f30786d5/wideart.png",
+        "large": "https://media.valorant-api.com/playercards/a26b6480-4bc4-51df-fe97-4680f30786d5/largeart.png"
       }
     },
     "cb7157ed-4fc7-a5c9-714b-1786ca3949f1": {
@@ -25515,6 +25587,90 @@
         "large": "https://media.valorant-api.com/playercards/92ac6212-486a-03fb-b72d-18bde165f7cd/largeart.png"
       }
     },
+    "c4ce702b-4b2a-a89c-5f24-f78406ebdd1f": {
+      "uuid": "c4ce702b-4b2a-a89c-5f24-f78406ebdd1f",
+      "names": {
+        "ar-AE": "بطاقة دوودل بَدز // League of Legends",
+        "de-DE": "Banner „Kritzelbrudis // League of Legends“",
+        "en-US": "Doodle Buds // League of Legends Card",
+        "es-ES": "Doodle Buds // Tarjeta de League of Legends",
+        "es-MX": "Tarjeta GaraBuddies // League of Legends",
+        "fr-FR": "Carte Amis crayonnés // League of Legends",
+        "id-ID": "Kartu Doodle Buds // League of Legends",
+        "it-IT": "Carta Scarabocchi // League of Legends",
+        "ja-JP": "ドゥードゥル・バディー // リーグ・オブ・レジェンド カード",
+        "ko-KR": "두들 버즈 // 리그 오브 레전드 카드",
+        "pl-PL": "Karta „Gryzmołki // League of Legends”",
+        "pt-BR": "Card Rabisquinhos // League of Legends",
+        "ru-RU": "Карточка \"Герои с картинки // League of Legends\"",
+        "th-TH": "การ์ด Doodle Buds // League of Legends",
+        "tr-TR": "Karikatürize // League of Legends Kartı",
+        "vi-VN": "Thẻ Phác Họa // Liên Minh Huyền Thoại",
+        "zh-CN": "涂鸦伙伴//《英雄联盟》 卡面",
+        "zh-TW": "魔術塗鴉//英雄聯盟 玩家卡面"
+      },
+      "icon": {
+        "small": "https://media.valorant-api.com/playercards/c4ce702b-4b2a-a89c-5f24-f78406ebdd1f/smallart.png",
+        "wide": "https://media.valorant-api.com/playercards/c4ce702b-4b2a-a89c-5f24-f78406ebdd1f/wideart.png",
+        "large": "https://media.valorant-api.com/playercards/c4ce702b-4b2a-a89c-5f24-f78406ebdd1f/largeart.png"
+      }
+    },
+    "da32c450-4d12-2858-89fa-07be25d51b0b": {
+      "uuid": "da32c450-4d12-2858-89fa-07be25d51b0b",
+      "names": {
+        "ar-AE": "بطاقة دوودل بَدز // العملاء",
+        "de-DE": "Banner „Kritzelbrudis // Agenten“",
+        "en-US": "Doodle Buds // Agents Card",
+        "es-ES": "Doodle Buds // Tarjeta de agentes",
+        "es-MX": "Tarjeta GaraBuddies // Agentes",
+        "fr-FR": "Carte Amis crayonnés // Agents",
+        "id-ID": "Kartu Doodle Buds // Agents",
+        "it-IT": "Carta Scarabocchi // Agenti",
+        "ja-JP": "ドゥードゥル・バディー // エージェント カード",
+        "ko-KR": "두들 버즈 // 요원 카드",
+        "pl-PL": "Karta „Gryzmołki // Agenci”",
+        "pt-BR": "Card Rabisquinhos // Agentes",
+        "ru-RU": "Карточка \"Герои с картинки // Агенты\"",
+        "th-TH": "การ์ด Doodle Buds // Agents",
+        "tr-TR": "Karikatürize // Ajan Kartı",
+        "vi-VN": "Thẻ Phác Họa // Đặc Vụ",
+        "zh-CN": "涂鸦伙伴//契约者 卡面",
+        "zh-TW": "魔術塗鴉//Q版特務 玩家卡面"
+      },
+      "icon": {
+        "small": "https://media.valorant-api.com/playercards/da32c450-4d12-2858-89fa-07be25d51b0b/smallart.png",
+        "wide": "https://media.valorant-api.com/playercards/da32c450-4d12-2858-89fa-07be25d51b0b/wideart.png",
+        "large": "https://media.valorant-api.com/playercards/da32c450-4d12-2858-89fa-07be25d51b0b/largeart.png"
+      }
+    },
+    "009f74aa-4c66-0f61-c165-9c91a3addff6": {
+      "uuid": "009f74aa-4c66-0f61-c165-9c91a3addff6",
+      "names": {
+        "ar-AE": "بطاقة دوودل بَدز // الأصدقاء المسلحون",
+        "de-DE": "Banner „Kritzelbrudis // Taktifreunde“",
+        "en-US": "Doodle Buds // Tactifriends Card",
+        "es-ES": "Doodle Buds // Tarjeta de Tacticompis",
+        "es-MX": "Tarjeta GaraBuddies // Tactiamigos",
+        "fr-FR": "Carte Amis crayonnés // Tactipotes",
+        "id-ID": "Kartu Doodle Buds // Tactifriends",
+        "it-IT": "Carta Scarabocchi // Amici tattici",
+        "ja-JP": "ドゥードゥル・バディー // 戦略フレンズ カード",
+        "ko-KR": "두들 버즈 // 전략가 친구들 카드",
+        "pl-PL": "Karta „Gryzmołki // Taktyczni kumple”",
+        "pt-BR": "Card Rabisquinhos // Missão Animal",
+        "ru-RU": "Карточка \"Герои с картинки // Тактические друзья\"",
+        "th-TH": "การ์ด Doodle Buds // Tactifriends",
+        "tr-TR": "Karikatürize // Taktiksel Dostlar Kartı",
+        "vi-VN": "Thẻ Phác Họa // Tactifriends",
+        "zh-CN": "涂鸦伙伴//砰砰队 卡面",
+        "zh-TW": "魔術塗鴉//戰術夥伴 玩家卡面"
+      },
+      "icon": {
+        "small": "https://media.valorant-api.com/playercards/009f74aa-4c66-0f61-c165-9c91a3addff6/smallart.png",
+        "wide": "https://media.valorant-api.com/playercards/009f74aa-4c66-0f61-c165-9c91a3addff6/wideart.png",
+        "large": "https://media.valorant-api.com/playercards/009f74aa-4c66-0f61-c165-9c91a3addff6/largeart.png"
+      }
+    },
     "6e3d1cd3-4494-8b21-cbc7-0797e8de75db": {
       "uuid": "6e3d1cd3-4494-8b21-cbc7-0797e8de75db",
       "names": {
@@ -25597,6 +25753,146 @@
         "small": "https://media.valorant-api.com/playercards/f8b05d16-4ecc-e5ec-e6f7-12a5b5bd7dc0/smallart.png",
         "wide": "https://media.valorant-api.com/playercards/f8b05d16-4ecc-e5ec-e6f7-12a5b5bd7dc0/wideart.png",
         "large": "https://media.valorant-api.com/playercards/f8b05d16-4ecc-e5ec-e6f7-12a5b5bd7dc0/largeart.png"
+      }
+    },
+    "6b8e3723-4530-74eb-2a67-19b48a45c53c": {
+      "uuid": "6b8e3723-4530-74eb-2a67-19b48a45c53c",
+      "names": {
+        "ar-AE": "بطاقة تفوق جماعي // جيت",
+        "de-DE": "Banner „Team-Ass // Jett“",
+        "en-US": "Team Ace // Jett Card",
+        "es-ES": "Tarjeta Team Ace // Jett",
+        "es-MX": "Tarjeta Team Ace // Jett",
+        "fr-FR": "Carte Ace d'équipe // Jett",
+        "id-ID": "Kartu Team Ace // Jett",
+        "it-IT": "Carta Carneficina di squadra // Jett",
+        "ja-JP": "チームエース // ジェット カード",
+        "ko-KR": "팀 에이스 // 제트 카드",
+        "pl-PL": "Karta „As drużyny // Jett”",
+        "pt-BR": "Card Ás na Manga // Jett",
+        "ru-RU": "Карточка \"Элитный отряд // Jett\"",
+        "th-TH": "การ์ด Team Ace // Jett",
+        "tr-TR": "Takımın Ası // Jett Kartı",
+        "vi-VN": "Thẻ Quét Sạch Toàn Đội // Jett",
+        "zh-CN": "王牌队员 // 捷风 卡面",
+        "zh-TW": "王牌戰隊//婕提 玩家卡面"
+      },
+      "icon": {
+        "small": "https://media.valorant-api.com/playercards/6b8e3723-4530-74eb-2a67-19b48a45c53c/smallart.png",
+        "wide": "https://media.valorant-api.com/playercards/6b8e3723-4530-74eb-2a67-19b48a45c53c/wideart.png",
+        "large": "https://media.valorant-api.com/playercards/6b8e3723-4530-74eb-2a67-19b48a45c53c/largeart.png"
+      }
+    },
+    "8dc9e235-4def-c3eb-1d6f-609808a8afcc": {
+      "uuid": "8dc9e235-4def-c3eb-1d6f-609808a8afcc",
+      "names": {
+        "ar-AE": "بطاقة تفوق جماعي // فينيكس",
+        "de-DE": "Banner „Team-Ass // Phoenix“",
+        "en-US": "Team Ace // Phoenix Card",
+        "es-ES": "Tarjeta Team Ace // Phoenix",
+        "es-MX": "Tarjeta Team Ace // Phoenix",
+        "fr-FR": "Carte Ace d'équipe // Phoenix",
+        "id-ID": "Kartu Team Ace // Phoenix",
+        "it-IT": "Carta Carneficina di squadra // Phoenix",
+        "ja-JP": "チームエース // フェニックス カード",
+        "ko-KR": "팀 에이스 // 피닉스 카드",
+        "pl-PL": "Karta „As drużyny // Phoenix”",
+        "pt-BR": "Card Ás na Manga // Phoenix",
+        "ru-RU": "Карточка \"Элитный отряд // Phoenix\"",
+        "th-TH": "การ์ด Team Ace // Phoenix",
+        "tr-TR": "Takımın Ası // Phoenix Kartı",
+        "vi-VN": "Thẻ Quét Sạch Toàn Đội // Phoenix",
+        "zh-CN": "王牌队员 // 不死鸟 卡面",
+        "zh-TW": "王牌戰隊//菲尼克斯 玩家卡面"
+      },
+      "icon": {
+        "small": "https://media.valorant-api.com/playercards/8dc9e235-4def-c3eb-1d6f-609808a8afcc/smallart.png",
+        "wide": "https://media.valorant-api.com/playercards/8dc9e235-4def-c3eb-1d6f-609808a8afcc/wideart.png",
+        "large": "https://media.valorant-api.com/playercards/8dc9e235-4def-c3eb-1d6f-609808a8afcc/largeart.png"
+      }
+    },
+    "f06973d3-491f-652a-ce0f-469d3516ad16": {
+      "uuid": "f06973d3-491f-652a-ce0f-469d3516ad16",
+      "names": {
+        "ar-AE": "بطاقة تفوق جماعي // رايز",
+        "de-DE": "Banner „Team-Ass // Raze“",
+        "en-US": "Team Ace // Raze Card",
+        "es-ES": "Tarjeta Team Ace // Raze",
+        "es-MX": "Tarjeta Team Ace // Raze",
+        "fr-FR": "Carte Ace d'équipe // Raze",
+        "id-ID": "Kartu Team Ace // Raze",
+        "it-IT": "Carta Carneficina di squadra // Raze",
+        "ja-JP": "チームエース // レイズ カード",
+        "ko-KR": "팀 에이스 // 레이즈 카드",
+        "pl-PL": "Karta „As drużyny // Raze”",
+        "pt-BR": "Card Ás na Manga // Raze",
+        "ru-RU": "Карточка \"Элитный отряд // Raze\"",
+        "th-TH": "การ์ด Team Ace // Raze",
+        "tr-TR": "Takımın Ası // Raze Kartı",
+        "vi-VN": "Thẻ Quét Sạch Toàn Đội // Raze",
+        "zh-CN": "王牌队员 // 雷兹 卡面",
+        "zh-TW": "王牌戰隊//芮茲 玩家卡面"
+      },
+      "icon": {
+        "small": "https://media.valorant-api.com/playercards/f06973d3-491f-652a-ce0f-469d3516ad16/smallart.png",
+        "wide": "https://media.valorant-api.com/playercards/f06973d3-491f-652a-ce0f-469d3516ad16/wideart.png",
+        "large": "https://media.valorant-api.com/playercards/f06973d3-491f-652a-ce0f-469d3516ad16/largeart.png"
+      }
+    },
+    "f4b95397-4740-9569-f2c6-ceb38da5bf73": {
+      "uuid": "f4b95397-4740-9569-f2c6-ceb38da5bf73",
+      "names": {
+        "ar-AE": "بطاقة تفوق جماعي // ريينا",
+        "de-DE": "Banner „Team-Ass // Reyna“",
+        "en-US": "Team Ace // Reyna Card",
+        "es-ES": "Tarjeta Team Ace // Reyna",
+        "es-MX": "Tarjeta Team Ace // Reyna",
+        "fr-FR": "Carte Ace d'équipe // Reyna",
+        "id-ID": "Kartu Team Ace // Reyna",
+        "it-IT": "Carta Carneficina di squadra // Reyna",
+        "ja-JP": "チームエース // レイナ カード",
+        "ko-KR": "팀 에이스 // 레이나 카드",
+        "pl-PL": "Karta „As drużyny // Reyna”",
+        "pt-BR": "Card Ás na Manga // Reyna",
+        "ru-RU": "Карточка \"Элитный отряд // Reyna\"",
+        "th-TH": "การ์ด Team Ace // Reyna",
+        "tr-TR": "Takımın Ası // Reyna Kartı",
+        "vi-VN": "Thẻ Quét Sạch Toàn Đội // Reyna",
+        "zh-CN": "王牌队员 // 芮娜 卡面",
+        "zh-TW": "王牌戰隊//蕾娜 玩家卡面"
+      },
+      "icon": {
+        "small": "https://media.valorant-api.com/playercards/f4b95397-4740-9569-f2c6-ceb38da5bf73/smallart.png",
+        "wide": "https://media.valorant-api.com/playercards/f4b95397-4740-9569-f2c6-ceb38da5bf73/wideart.png",
+        "large": "https://media.valorant-api.com/playercards/f4b95397-4740-9569-f2c6-ceb38da5bf73/largeart.png"
+      }
+    },
+    "6f812af1-451d-0eab-59fe-93b64c5e2c77": {
+      "uuid": "6f812af1-451d-0eab-59fe-93b64c5e2c77",
+      "names": {
+        "ar-AE": "بطاقة تفوق جماعي // يورو",
+        "de-DE": "Banner „Team-Ass // Yoru“",
+        "en-US": "Team Ace // Yoru Card",
+        "es-ES": "Tarjeta Team Ace // Yoru",
+        "es-MX": "Tarjeta Team Ace // Yoru",
+        "fr-FR": "Carte Ace d'équipe // Yoru",
+        "id-ID": "Kartu Team Ace // Yoru",
+        "it-IT": "Carta Carneficina di squadra // Yoru",
+        "ja-JP": "チームエース // ヨル カード",
+        "ko-KR": "팀 에이스 // 요루 카드",
+        "pl-PL": "Karta „As drużyny // Yoru”",
+        "pt-BR": "Card Ás na Manga // Yoru",
+        "ru-RU": "Карточка \"Элитный отряд // Yoru\"",
+        "th-TH": "การ์ด Team Ace // Yoru",
+        "tr-TR": "Takımın Ası // Yoru Kartı",
+        "vi-VN": "Thẻ Quét Sạch Toàn Đội // Yoru",
+        "zh-CN": "王牌队员 // 夜露 卡面",
+        "zh-TW": "王牌戰隊//夜戮 玩家卡面"
+      },
+      "icon": {
+        "small": "https://media.valorant-api.com/playercards/6f812af1-451d-0eab-59fe-93b64c5e2c77/smallart.png",
+        "wide": "https://media.valorant-api.com/playercards/6f812af1-451d-0eab-59fe-93b64c5e2c77/wideart.png",
+        "large": "https://media.valorant-api.com/playercards/6f812af1-451d-0eab-59fe-93b64c5e2c77/largeart.png"
       }
     },
     "0e28a9b5-4a9a-bf7d-b4a1-9b8395461b77": {
@@ -26075,6 +26371,34 @@
         "large": "https://media.valorant-api.com/playercards/a6ea23c9-43c6-0a94-f814-679c1236d3b7/largeart.png"
       }
     },
+    "53ebe88a-4548-6582-9dd0-edaf67ad8c1e": {
+      "uuid": "53ebe88a-4548-6582-9dd0-edaf67ad8c1e",
+      "names": {
+        "ar-AE": "بطاقة تايغريس",
+        "de-DE": "Banner „Tigris“",
+        "en-US": "Tigris Card",
+        "es-ES": "Tarjeta Tigris",
+        "es-MX": "Tarjeta Tigris",
+        "fr-FR": "Carte Tigre",
+        "id-ID": "Kartu Tigris",
+        "it-IT": "Carta Tigris",
+        "ja-JP": "ティグリス カード",
+        "ko-KR": "티그리스 카드",
+        "pl-PL": "Karta „Tigris”",
+        "pt-BR": "Card Tigris",
+        "ru-RU": "Карточка \"Тигр\"",
+        "th-TH": "การ์ด Tigris ",
+        "tr-TR": "Kaplan Kartı",
+        "vi-VN": "Thẻ Kim Hổ",
+        "zh-CN": "虎魄春明 卡面",
+        "zh-TW": "金虎嘯天 玩家卡面"
+      },
+      "icon": {
+        "small": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/smallart.png",
+        "wide": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/wideart.png",
+        "large": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/largeart.png"
+      }
+    },
     "8edf22c5-4489-ab41-769a-07adb4c454d6": {
       "uuid": "8edf22c5-4489-ab41-769a-07adb4c454d6",
       "names": {
@@ -26129,34 +26453,6 @@
         "small": "https://media.valorant-api.com/playercards/8eb39b3d-443e-05e7-b8ec-6aa210da6e2e/smallart.png",
         "wide": "https://media.valorant-api.com/playercards/8eb39b3d-443e-05e7-b8ec-6aa210da6e2e/wideart.png",
         "large": "https://media.valorant-api.com/playercards/8eb39b3d-443e-05e7-b8ec-6aa210da6e2e/largeart.png"
-      }
-    },
-    "53ebe88a-4548-6582-9dd0-edaf67ad8c1e": {
-      "uuid": "53ebe88a-4548-6582-9dd0-edaf67ad8c1e",
-      "names": {
-        "ar-AE": "بطاقة تايغريس",
-        "de-DE": "Banner „Tigris“",
-        "en-US": "Tigris Card",
-        "es-ES": "Tarjeta Tigris",
-        "es-MX": "Tarjeta Tigris",
-        "fr-FR": "Carte Tigre",
-        "id-ID": "Kartu Tigris",
-        "it-IT": "Carta Tigris",
-        "ja-JP": "ティグリス カード",
-        "ko-KR": "티그리스 카드",
-        "pl-PL": "Karta „Tigris”",
-        "pt-BR": "Card Tigris",
-        "ru-RU": "Карточка \"Тигр\"",
-        "th-TH": "การ์ด Tigris ",
-        "tr-TR": "Kaplan Kartı",
-        "vi-VN": "Thẻ Kim Hổ",
-        "zh-CN": "虎魄春明 卡面",
-        "zh-TW": "金虎嘯天 玩家卡面"
-      },
-      "icon": {
-        "small": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/smallart.png",
-        "wide": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/wideart.png",
-        "large": "https://media.valorant-api.com/playercards/53ebe88a-4548-6582-9dd0-edaf67ad8c1e/largeart.png"
       }
     },
     "2d91369b-4fb5-28c6-3111-c285c9a32c2c": {
@@ -28368,7 +28664,7 @@
         "ko-KR": "디멘셔널 칭호",
         "pl-PL": "Tytuł „Wymiarowy”",
         "pt-BR": "Título Dimensional",
-        "ru-RU": "Звание \"Путешественник между мирами\"",
+        "ru-RU": "Звание \"Между мирами\"",
         "th-TH": "ฉายาต่างมิติ",
         "tr-TR": "Boyutlararası Unvanı",
         "vi-VN": "Danh Hiệu Đẳng Cấp Không Gian",
@@ -28388,7 +28684,7 @@
         "ko-KR": "디멘셔널",
         "pl-PL": "Wymiarowy",
         "pt-BR": "Dimensional",
-        "ru-RU": "Путешественник между мирами",
+        "ru-RU": "Между мирами",
         "th-TH": "ต่างมิติ",
         "tr-TR": "Boyutlararası",
         "vi-VN": "Đẳng Cấp Không Gian",
@@ -28658,7 +28954,7 @@
       "uuid": "96bbed0e-426e-2f54-8ce1-ff820ca6b703",
       "names": {
         "ar-AE": "لقب نجم النجوم",
-        "de-DE": "Titel „All-Star“",
+        "de-DE": "Titel „All Star“",
         "en-US": "All Star Title",
         "es-ES": "Título Estrella",
         "es-MX": "Título Estrella",
@@ -28678,7 +28974,7 @@
       },
       "text": {
         "ar-AE": "نجم النجوم",
-        "de-DE": "All-Star",
+        "de-DE": "All Star",
         "en-US": "All Star",
         "es-ES": "Estrella",
         "es-MX": "Estrella",
@@ -32117,7 +32413,7 @@
         "ar-AE": "رسمة بشائر الفوضى",
         "de-DE": "Graffiti „Vorbote des Chaos“",
         "en-US": "Prelude to Chaos Spray",
-        "es-ES": "Grafiti Prelude to chaos",
+        "es-ES": "Grafiti Prelude to Chaos",
         "es-MX": "Spray Preludio del Caos",
         "fr-FR": "Graffiti Prélude au chaos",
         "id-ID": "Spray Prelude to Chaos",
@@ -35722,7 +36018,7 @@
         "fr-FR": "Graffiti Marche en canard",
         "id-ID": "Spray Waddle Walk",
         "it-IT": "Spray Camminata a papera",
-        "ja-JP": "よちよち歩き スプレー",
+        "ja-JP": "アヒルの行進 スプレー",
         "ko-KR": "뒤뚱뒤뚱 스프레이",
         "pl-PL": "Graffiti „Kaczy chód”",
         "pt-BR": "Spray Passinho do Pato",
@@ -40183,7 +40479,7 @@
         "ar-AE": "ملحق بشائر الفوضى",
         "de-DE": "Talisman „Vorbote des Chaos“",
         "en-US": "Prelude to Chaos Buddy",
-        "es-ES": "Amuleto Prelude to chaos",
+        "es-ES": "Amuleto Prelude to Chaos",
         "es-MX": "Buddy Preludio del Caos",
         "fr-FR": "Porte-bonheur Prélude au chaos",
         "id-ID": "Gantungan Prelude to Chaos",
@@ -41607,7 +41903,7 @@
         "ja-JP": "編みジェット バディー",
         "ko-KR": "완벽한 패턴 총기 장식",
         "pl-PL": "Przywieszka „Idealny wzór”",
-        "pt-BR": "Chaveiro Padrão Perfeito",
+        "pt-BR": "Chaveiro Crochê Perfeito",
         "ru-RU": "Брелок \"Вязаная прелесть\"",
         "th-TH": "บัดดี้ Perfect Pattern",
         "tr-TR": "Minnoş Anahtarlık Uğuru",

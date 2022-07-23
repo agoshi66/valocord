@@ -46,11 +46,11 @@
       "NAME": "ナイトマーケット",
       "DESCRIPTION": "ナイトマーケットのスキンオファー一覧を表示します。",
       "RESPONSE": "**{username}**のナイトマーケット | 残り時間 {duration}",
-      "NIGMARKET_HAS_END": "**ナイトマーケット**が終了しました"
+      "NIGMARKET_HAS_END": "**ナイトマーケット**は終了しました"
     },
     "battlepass": {
       "NAME": "バトルパス",
-      "DESCRIPTION": "自分の現在のバトルパスレベルを表示します。",
+      "DESCRIPTION": "自分の現在のバトルパスレティアを表示します。",
       "RESPONSE": "**次報酬:** {next}\n**種類:** {type}\n**XP:** {xp}\n**ACT終了時間:** {end}",
       "TIER": "レベル",
       "PLAYER_CARD": "プレイヤーカード",

@@ -6,6 +6,9 @@ from typing import Literal, TYPE_CHECKING  # noqa: F401
 from discord import app_commands, Interaction, ui
 from discord.ext import commands, tasks
 from discord.utils import MISSING
+from discord.ext.commands import Bot
+import discord
+import pydantic
 
 from utils.checks import owner_only
 from utils.errors import (
@@ -78,7 +81,7 @@ class ValorantCog(commands.Cog, name='Valorant'):
         endpoint.activate(data)
         return endpoint
     
-    @app_commands.command(description='Log in with your Riot acoount')
+    @app_commands.command(description='riotアカウントにログインします')
     @app_commands.describe(username='Input username', password='Input password')
     # @dynamic_cooldown(cooldown_5s)
     async def login(self, interaction: Interaction, username: str, password: str) -> None:
@@ -107,7 +110,7 @@ class ValorantCog(commands.Cog, name='Valorant'):
             modal = View.TwoFA_UI(interaction, self.db, cookies, message, label, response)
             await interaction.response.send_modal(modal)
     
-    @app_commands.command(description='Logout and Delete your account from database')
+    @app_commands.command(description='ログアウトします')
     # @dynamic_cooldown(cooldown_5s)
     async def logout(self, interaction: Interaction) -> None:
         
@@ -122,7 +125,7 @@ class ValorantCog(commands.Cog, name='Valorant'):
                 return await interaction.followup.send(embed=embed, ephemeral=True)
             raise ValorantBotError(response.get('FAILED'))
     
-    @app_commands.command(description="Shows your daily store in your accounts")
+    @app_commands.command(description="デイリーストアを取得します")
     @app_commands.describe(username='Input username (without login)', password='password (without login)')
     # @dynamic_cooldown(cooldown_5s)
     async def store(self, interaction: Interaction, username: str = None, password: str = None) -> None:
@@ -150,7 +153,7 @@ class ValorantCog(commands.Cog, name='Valorant'):
         embeds = GetEmbed.store(endpoint.player, data, response, self.bot)
         await interaction.followup.send(embeds=embeds, view=View.share_button(interaction, embeds) if is_private_message else MISSING)
     
-    @app_commands.command(description='View your remaining Valorant and Riot Points (VP/RP)')
+    @app_commands.command(description='ヴァロラントポイントおよびレディアナイトポイントの所持数を取得します')
     # @dynamic_cooldown(cooldown_5s)
     async def point(self, interaction: Interaction, username: str = None, password: str = None) -> None:
         
@@ -173,7 +176,7 @@ class ValorantCog(commands.Cog, name='Valorant'):
         
         await interaction.followup.send(embed=embed, view=View.share_button(interaction, [embed]) if is_private_message else MISSING)
     
-    @app_commands.command(description='View your daily/weekly mission progress')
+    @app_commands.command(description='デイリー,ウィークリーミッションを取得します')
     # @dynamic_cooldown(cooldown_5s)
     async def mission(self, interaction: Interaction, username: str = None, password: str = None) -> None:
         
@@ -193,7 +196,7 @@ class ValorantCog(commands.Cog, name='Valorant'):
         
         await interaction.followup.send(embed=embed, view=View.share_button(interaction, [embed]) if is_private_message else MISSING)
     
-    @app_commands.command(description='Show skin offers on the nightmarket')
+    @app_commands.command(description='ナイトマーケットの情報を取得します')
     # @dynamic_cooldown(cooldown_5s)
     async def nightmarket(self, interaction: Interaction, username: str = None, password: str = None) -> None:
         
@@ -221,7 +224,7 @@ class ValorantCog(commands.Cog, name='Valorant'):
         
         await interaction.followup.send(embeds=embeds, view=View.share_button(interaction, embeds) if is_private_message else MISSING)
     
-    @app_commands.command(description='View your battlepass current tier')
+    @app_commands.command(description='バトルパスの現在ティア数を取得します')
     # @dynamic_cooldown(cooldown_5s)
     async def battlepass(self, interaction: Interaction, username: str = None, password: str = None) -> None:
         
@@ -245,8 +248,8 @@ class ValorantCog(commands.Cog, name='Valorant'):
         await interaction.followup.send(embed=embed, view=View.share_button(interaction, [embed]) if is_private_message else MISSING)
     
     # inspired by https://github.com/giorgi-o
-    @app_commands.command(description="inspect a specific bundle")
-    @app_commands.describe(bundle="The name of the bundle you want to inspect!")
+    @app_commands.command(description="特定のバンドルの内容を取得します")
+    @app_commands.describe(bundle="バンドル名を入力してください")
     # @dynamic_cooldown(cooldown_5s)
     async def bundle(self, interaction: Interaction, bundle: str) -> None:
         
@@ -273,7 +276,7 @@ class ValorantCog(commands.Cog, name='Valorant'):
         await view.start()
     
     # inspired by https://github.com/giorgi-o
-    @app_commands.command(description="Show the current featured bundles")
+    @app_commands.command(description="現在販売中のバンドル情報を取得します")
     # @dynamic_cooldown(cooldown_5s)
     async def bundles(self, interaction: Interaction) -> None:
         
